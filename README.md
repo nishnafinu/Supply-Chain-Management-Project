@@ -6,7 +6,6 @@ A Fast Moving Consumer Goods (FMCG) company entered into the instant noodles bus
 # Data Overview
 The dataset includes information about warehouses, managers, regional zones, and various factors affecting the supply chain.
 Problem: Mismatch in demand and supply, resulting in inventory costs and losses.
-
 Goal: Build a model using historical data to determine the optimum weight of the product shipped from each warehouse.
 
 # Problem Solving Methods
